@@ -1,0 +1,13 @@
+# ninja log v6
+265	3440	7665853153476735	CMakeFiles/untitled1.dir/main.cpp.obj	87c8bd46ef9358ca
+14	231	7665853150951536	CMakeFiles/untitled1.dir/main.cpp.obj.ddi	f78dede344b707af
+232	264	7665853153165122	CMakeFiles/untitled1.dir/main.cpp.obj.modmap	9f041d9738760964
+232	264	7665853153165122	CMakeFiles/untitled1.dir/CXX.dd	9f041d9738760964
+3441	4557	7665853185347150	untitled1.exe	6798cdafa0a541e
+3	352	7677203861658423	build.ninja	71978620dc0d9cd7
+7	240	7677204048003320	CMakeFiles/untitled1.dir/main.cpp.obj.ddi	b871f5c34186e0ab
+241	268	7677204050562766	CMakeFiles/untitled1.dir/CXX.dd	9f041d9738760964
+241	268	7677204050562766	C:/Users/Paul/Desktop/wok/internship/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/CXXModules.json	9f041d9738760964
+241	268	7677204050562766	CMakeFiles/untitled1.dir/main.cpp.obj.modmap	9f041d9738760964
+269	3205	7677204050622772	CMakeFiles/untitled1.dir/main.cpp.obj	f5c703f7ec4155b7
+3205	4441	7677204079975846	untitled1.exe	27ae22a26dbf60ae

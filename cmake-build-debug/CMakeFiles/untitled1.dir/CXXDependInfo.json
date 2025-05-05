@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Paul/Desktop/wok/internship/untitled1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Paul/Desktop/wok/internship/untitled1",
+	"dir-top-bld" : "C:/Users/Paul/Desktop/wok/internship/untitled1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Paul/Desktop/wok/internship/untitled1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Paul\\vcpkg\\installed\\x64-windows\\include\\opencv4"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Paul/Desktop/wok/internship/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir"
+}
